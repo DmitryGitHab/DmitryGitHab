@@ -3,8 +3,8 @@
 - My stack Python - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub, ORM, SQL, PostgreSQL, HTML, CSS
 - The main part of my repository is the Python developer's homework
 - I recommend paying attention to the specified repositories:
--   [The program downloads the specified number of photos from VC.COM and automatically saves it to yandex-disk..](https://github.com/DmitryGitHab/CW_V_2_Y)
--   [Face recognition](https://github.com/DmitryGitHab/face_detected/)
--   [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
--   [Personal portfolio](https://github.com/DmitryGitHab/django_portfolio_personal)
--   [Telegram bot](https://github.com/DmitryGitHab/tg_test)
+    - [Downloads photos from VC.COM and automatically saves it to yandex-disk.](https://github.com/DmitryGitHab/CW_V_2_Y)
+    -   [Face recognition](https://github.com/DmitryGitHab/face_detected/)
+    -   [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
+    -   [Personal portfolio](https://github.com/DmitryGitHab/django_portfolio_personal)
+    -   [Telegram bot](https://github.com/DmitryGitHab/tg_test)
