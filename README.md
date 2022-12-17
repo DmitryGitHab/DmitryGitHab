@@ -8,3 +8,4 @@
     -   [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
     -   [Personal portfolio](https://github.com/DmitryGitHab/django_portfolio_personal)
     -   [Telegram bot](https://github.com/DmitryGitHab/tg_test)
+    -   [Сalculation of permissible pressure](https://github.com/DmitryGitHab/load-calculation/blob/main/demo.gif)
