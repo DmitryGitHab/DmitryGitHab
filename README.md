@@ -8,5 +8,5 @@
     -   [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
     -   [Personal portfolio](https://github.com/DmitryGitHab/django_portfolio_personal)
     -   [Telegram bot](https://github.com/DmitryGitHab/tg_test)
-    -   [Сalculation of permissible pressure](https://github.com/DmitryGitHab/load-calculation)
-    -   [Analyzer for M-29 & KS-2](https://github.com/DmitryGitHab/m29-ks2)
+    -   [Сalculation of permissible pressure(desktop app)] (https://github.com/DmitryGitHab/load-calculation)
+    -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
