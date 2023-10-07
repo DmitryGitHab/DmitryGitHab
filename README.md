@@ -11,6 +11,8 @@
     -   [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
     -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
 
+![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 
 -My stats:
 
@@ -18,4 +20,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DmitryGitHab&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
