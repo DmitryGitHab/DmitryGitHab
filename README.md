@@ -12,7 +12,7 @@
     -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
 
 
-
+My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryGitHab)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
