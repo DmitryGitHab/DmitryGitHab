@@ -11,6 +11,7 @@
     -   [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
     -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 
