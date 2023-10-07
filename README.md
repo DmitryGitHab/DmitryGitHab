@@ -10,3 +10,7 @@
     -   [Telegram bot](https://github.com/DmitryGitHab/tg_test)
     -   [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
     -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryGitHab)](https://git.io/streak-stats)
