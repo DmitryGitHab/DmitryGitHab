@@ -23,7 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Карточка профиля: 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryGitHab&theme=solarized_dark)
 
+
+-Random quote for a profile visitor:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
