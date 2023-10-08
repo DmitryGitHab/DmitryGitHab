@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://git.io/typing-svg)
 
-<div id="header" align="center>
+<div id="header" align="center">
     <h1>- 👋 Hi, I’m Dmitry</h1>
     <h3>- Python - developer</h3>
 </div>
