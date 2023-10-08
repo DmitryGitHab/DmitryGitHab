@@ -5,6 +5,8 @@
 - 👋 Hi, I’m Dmitry
 - Python - developer
 - My stack Python - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub, ORM, SQL, PostgreSQL, HTML, CSS
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - The main part of my repository is the Python developer's homework
 - I recommend paying attention to the specified repositories:
     - [Downloads photos from VC.COM and automatically saves it to yandex-disk.](https://github.com/DmitryGitHab/CW_V_2_Y)
