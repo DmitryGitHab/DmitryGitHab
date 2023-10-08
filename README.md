@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Dmitry
 - Python - developer
 - My stack Python - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub, ORM, SQL, PostgreSQL, HTML, CSS
