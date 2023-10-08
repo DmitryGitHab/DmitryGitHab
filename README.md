@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer)](https://git.io/typing-svg)
 
+<div id="header" align="center>
+    <h1>- 👋 Hi, I’m Dmitry</h1>
+    <h3>- Python - developer</h3>
+    
 
 
-- 👋 Hi, I’m Dmitry
-- Python - developer
+
 - My stack Python - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub, ORM, SQL, PostgreSQL, HTML, CSS
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
