@@ -4,6 +4,13 @@
     <h1>- 👋 Hi, I’m Dmitry</h1>
     <h3>- Python - developer</h3>
 </div>
+
+<div id="socials" align="center">
+    <a href="https://t.me/dmitrytmn">
+        <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt="Telegram">
+    <h3>- Python - developer</h3>
+</div>
+    
     
 
 My stack Python: - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub, ORM, SQL, PostgreSQL, HTML, CSS
