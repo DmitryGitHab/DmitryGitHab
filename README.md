@@ -52,6 +52,6 @@ My stack Python: - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub,
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryGitHab&theme=solarized_dark)
 
 
--Random quote for a profile visitor:
+Random quote for a profile visitor:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
