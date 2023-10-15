@@ -13,8 +13,7 @@
     <a href="mailto:babanov91@gmail.com">
         <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail">
 </div>
-    
-    
+     
 My stack Python: - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub, ORM, SQL, PostgreSQL, HTML, CSS
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
