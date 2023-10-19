@@ -39,6 +39,7 @@ My stack Python: - Python, Git, Django Framework, CI/CD, Docker, Flask, GitHub,
     -   [Telegram bot](https://github.com/DmitryGitHab/tg_test)
     -   [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
     -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
+    -   [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI)
 
 
 
