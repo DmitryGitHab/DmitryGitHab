@@ -41,6 +41,7 @@ My stack Python: - Python, FastAPI, Git, Django Framework, CI/CD, Docker, Flask
     -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
     -   [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
     -   [Hosts Pinger](https://github.com/DmitryGitHab/pinger_server)
+    -   [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
 
 
 
