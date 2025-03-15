@@ -42,6 +42,7 @@ My stack Python: - Python, FastAPI, SQLAlchemy, Git, Django Framework, CI/CD, D
     -   [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
     -   [Hosts Pinger](https://github.com/DmitryGitHab/pinger_server)
     -   [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
+    -   [Portfolio by FastApi+JS](https://github.com/DmitryGitHab/fa_portfolio)
 
 
 
