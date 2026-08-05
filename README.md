@@ -31,8 +31,8 @@ My stack Python: - Python, FastAPI, SQLAlchemy, Git, Django Framework, CI/CD, D
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- I recommend paying attention to the specified repositories:
--  [ai-smeta-agent](https://github.com/DmitryGitHab/ai-smeta-agent)
+I recommend paying attention to the specified repositories:
+-  [AI-smeta-agent](https://github.com/DmitryGitHab/ai-smeta-agent)
 -  [Portfolio by FastApi+JS](https://github.com/DmitryGitHab/fa_portfolio)
 -  [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
 -  [Hosts Pinger](https://github.com/DmitryGitHab/pinger_server)
