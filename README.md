@@ -32,19 +32,18 @@ My stack Python: - Python, FastAPI, SQLAlchemy, Git, Django Framework, CI/CD, D
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 - I recommend paying attention to the specified repositories:
-    - [Downloads photos from VC.COM and automatically saves it to yandex-disk.](https://github.com/DmitryGitHab/CW_V_2_Y)
-    -   [Face recognition](https://github.com/DmitryGitHab/face_detected/)
-    -   [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
-    -   [Personal portfolio](https://github.com/DmitryGitHab/django_portfolio_personal)
-    -   [Telegram bot](https://github.com/DmitryGitHab/tg_test)
-    -   [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
-    -   [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
-    -   [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
-    -   [Hosts Pinger](https://github.com/DmitryGitHab/pinger_server)
-    -   [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
-    -   [Portfolio by FastApi+JS](https://github.com/DmitryGitHab/fa_portfolio)
-
-
+-  [ai-smeta-agent](https://github.com/DmitryGitHab/ai-smeta-agent)
+-  [Portfolio by FastApi+JS](https://github.com/DmitryGitHab/fa_portfolio)
+-  [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
+-  [Hosts Pinger](https://github.com/DmitryGitHab/pinger_server)
+-  [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
+-  [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
+-  [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
+-  [Telegram bot](https://github.com/DmitryGitHab/tg_test)
+-  [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
+-   [Face recognition](https://github.com/DmitryGitHab/face_detected/)
+-   [Downloads photos from VC.COM and automatically saves it to yandex-disk.](https://github.com/DmitryGitHab/CW_V_2_Y)
+    
 
 -My stats:
 
