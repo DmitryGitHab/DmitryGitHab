@@ -37,13 +37,14 @@ I recommend paying attention to the specified repositories:
 -  [Crypto scan](https://github.com/DmitryGitHab/crypto_scan_fa)
 -  [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
 -  [Face recognition](https://github.com/DmitryGitHab/face_detected/)
-  
+-  [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
+-  
 -  [Portfolio by FastApi+JS](https://github.com/DmitryGitHab/fa_portfolio)
 -  [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
 -  [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
 -  [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
 -  [Telegram bot](https://github.com/DmitryGitHab/tg_test)
--  [API Service for ordering goods for retail chains](https://github.com/DmitryGitHab/django_retail_chain)
+
 
 -   [Downloads photos from VC.COM and automatically saves it to yandex-disk.](https://github.com/DmitryGitHab/CW_V_2_Y)
     
