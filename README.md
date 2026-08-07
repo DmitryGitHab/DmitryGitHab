@@ -37,7 +37,7 @@ I recommend paying attention to the specified repositories:
 -  [Crypto scan](https://github.com/DmitryGitHab/crypto_scan_fa)
 -  [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
 -  [Face recognition](https://github.com/DmitryGitHab/face_detected/)
--  
+  
 -  [Portfolio by FastApi+JS](https://github.com/DmitryGitHab/fa_portfolio)
 -  [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
 -  [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
