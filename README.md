@@ -50,7 +50,9 @@ I recommend paying attention to the specified repositories:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryGitHab)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)]
+
+(https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryGitHab&theme=solarized_dark)
 
