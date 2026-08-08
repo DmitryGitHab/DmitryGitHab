@@ -34,6 +34,7 @@ My stack Python: - Python, FastAPI, SQLAlchemy, Git, Django Framework, CI/CD, D
 I recommend paying attention to the specified repositories:
 -  [AI-smeta-agent](https://github.com/DmitryGitHab/ai-smeta-agent)
 -  [Security cost calculator](https://github.com/DmitryGitHab/calc_Security)
+-  [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
 -  [Hosts Pinger](https://github.com/DmitryGitHab/pinger_server)
 -  [Crypto scan](https://github.com/DmitryGitHab/crypto_scan_fa)
 -  [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
@@ -45,7 +46,7 @@ I recommend paying attention to the specified repositories:
 -  
 -  [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
 -  [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
--  [Сalculation of permissible pressure(desktop app)](https://github.com/DmitryGitHab/load-calculation)
+
 
     
 
