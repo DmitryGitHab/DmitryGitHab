@@ -66,9 +66,9 @@
 -  [VK Photo Backup → Yandex.Disk](https://github.com/DmitryGitHab/CW_V_2_Y) — бэкап фото профиля VK на Яндекс.Диск, retry с backoff на лимиты API, тесты
 -  [Telegram Autoresponder Bot](https://github.com/DmitryGitHab/tg_test) — бот-автоответчик на официальном Bot API (aiogram)
 -  [Portfolio на FastAPI + JS](https://github.com/DmitryGitHab/fa_portfolio) — сайт-визитка с CRUD для проектов
--  [Расчёт допустимого давления (десктоп)](https://github.com/DmitryGitHab/load-calculation)
--  [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa)
--  [Face Recognition](https://github.com/DmitryGitHab/face_detected/)
+-  [Расчёт допустимого давления (десктоп)](https://github.com/DmitryGitHab/load-calculation)  Промышленное приложение на PyQt5 для расчёта допустимого давления конструкций — используется в реальной production-эксплуатации на предприятии.
+-  [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa) - Веб-сервис для скрининга криптовалют: находит монеты, которые сильно упали от исторического максимума (ATH), но при этом сохранили достаточную капитализацию/
+-  [Face Recognition](https://github.com/DmitryGitHab/face_detected/) - Приложение для распознавания знакомых лиц на видео (с веб-камеры или из файла) в реальном времени.
 
 </details>
 
