@@ -33,6 +33,7 @@ My stack Python: - Python, FastAPI, SQLAlchemy, Git, Django Framework, CI/CD, D
 
 I recommend paying attention to the specified repositories:
 -  [AI-smeta-agent](https://github.com/DmitryGitHab/ai-smeta-agent)
+-  [Security cost calculator](https://github.com/DmitryGitHab/calc_Security)
 -  [Hosts Pinger](https://github.com/DmitryGitHab/pinger_server)
 -  [Crypto scan](https://github.com/DmitryGitHab/crypto_scan_fa)
 -  [Anonymous notes service(FastApi)](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-)
