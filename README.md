@@ -43,10 +43,6 @@ I recommend paying attention to the specified repositories:
 -  [Portfolio by FastApi+JS](https://github.com/DmitryGitHab/fa_portfolio)
 -  [Telegram bot](https://github.com/DmitryGitHab/tg_test)
 -  [VK Photo Backup](https://github.com/DmitryGitHab/CW_V_2_Y)
--  
--  [Analyzer for M-29 & KS-2(FastApi)](https://github.com/DmitryGitHab/m29_fa)
--  [Analyzer for M-29 & KS-2(desktop app)](https://github.com/DmitryGitHab/m29-ks2)
-
 
     
 
