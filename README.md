@@ -56,6 +56,9 @@
 | 🕵️ [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | Сервис одноразовых записок на FastAPI. Нашёл и исправил утечку текста записки через URL, пароли хэшируются bcrypt. |
 | 📡 [**Pinger Server**](https://github.com/DmitryGitHab/pinger_server) | Асинхронный мониторинг сети на FastAPI: параллельный ICMP-пинг, живые обновления по WebSocket, экспорт в CSV. |
 | 📡 [**Booking API**](https://github.com/DmitryGitHab/Booking_salon) | Booking API — сервис бронирования (запись в салон красоты). |
+| 📡 [**JobWire**](https://github.com/DmitryGitHab/JobWire-) | JobWire — агрегатор вакансий с AI-сопроводительными письмами. |
+
+
 
 
 <br>
