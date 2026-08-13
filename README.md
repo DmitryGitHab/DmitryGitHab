@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=%2336BCF7&lines=Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL;Пишу+код%2C+который+не+стыдно+показать+на+проде)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <h1>👋 Привет, я Dmitry</h1>
   <h3>Backend / Fullstack Python-разработчик</h3>
+  <img src="https://img.shields.io/badge/status-открыт%20к%20предложениям-brightgreen?style=for-the-badge" alt="Open to work">
 </div>
 
-Пишу backend-сервисы на FastAPI и Django, разбираюсь в асинхронном Python, проектирую REST API и слежу за безопасностью того, что деплою. Люблю доводить учебные проекты до состояния "не стыдно показать на проде" — рефакторю, добавляю тесты, ищу и чиню уязвимости.
+Пишу backend на FastAPI и Django: проектирую REST API, работаю с асинхронным Python и PostgreSQL. Из 12 проектов ниже — два коммерческих (по ТЗ реальных заказчиков, один уже в проде на предприятии) и AI-агент на Claude с RAG для проверки строительной отчётности. В каждом проекте — рефакторинг до продакшн-уровня и тесты.
 
 <div id="socials" align="center">
   <a href="https://t.me/dmitrytmn">
@@ -17,6 +18,11 @@
   <a href="mailto:babanov91@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <!-- Если есть готовое резюме — раскомментируй и добавь ссылку (PDF в репо или Google Drive):
+  <a href="ССЫЛКА_НА_РЕЗЮМЕ">
+    <img src="https://img.shields.io/badge/Резюме-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
+  </a>
+  -->
 </div>
 
 <br>
@@ -49,14 +55,14 @@
 
 ## 📌 Проекты, на которые стоит посмотреть в первую очередь
 
-| Проект | Что это |
-|---|---|
-| 📡 [**Booking API**](https://github.com/DmitryGitHab/Booking_salon) | Booking API — сервис бронирования (запись в салон красоты). |
-| 📡 [**JobWire**](https://github.com/DmitryGitHab/JobWire-) | JobWire — агрегатор вакансий с AI-сопроводительными письмами. |
-| 🏗️ [**AI-Смета-Агент**](https://github.com/DmitryGitHab/ai-smeta-agent) | AI-агент на Claude (tool use) + RAG: сверяет строительную отчётность и объясняет расхождения со ссылкой на нормативку. Детерминированное ядро на Pandas отдельно от LLM — модель не считает и не выдумывает нормы. Docker, тесты, pgvector. |
-| 🛡️ [**Калькулятор себестоимости объекта охраны**](https://github.com/DmitryGitHab/calc_Security) | Десктоп-приложение на PyQt6 — реальный коммерческий проект по ТЗ клиента, не учебный. Бизнес-логика вынесена из UI и покрыта тестами. |
-| 🕵️ [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | Сервис одноразовых записок на FastAPI. Нашёл и исправил утечку текста записки через URL, пароли хэшируются bcrypt. |
-| 📡 [**Pinger Server**](https://github.com/DmitryGitHab/pinger_server) | Асинхронный мониторинг сети на FastAPI: параллельный ICMP-пинг, живые обновления по WebSocket, экспорт в CSV. |
+| Проект | Стек | Описание |
+|---|---|---|
+| 🏗️ [**AI-Смета-Агент**](https://github.com/DmitryGitHab/ai-smeta-agent) | FastAPI · Claude tool use · RAG · pgvector · Docker | AI-агент сверяет строительную отчётность и объясняет расхождения со ссылкой на нормативку. Расчёты — на детерминированном Pandas-ядре отдельно от LLM: модель объясняет, но не считает и не выдумывает нормы. Покрыт тестами. |
+| 🛡️ [**Калькулятор себестоимости объекта охраны**](https://github.com/DmitryGitHab/calc_Security) | Python · PyQt6 · pytest | Коммерческий заказ по ТЗ клиента, не учебный проект. Бизнес-логика вынесена из UI и покрыта тестами — легко поддерживать и расширять. |
+| 🔒 [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | FastAPI · bcrypt | Сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt. |
+| 📅 [**Booking API**](https://github.com/DmitryGitHab/Booking_salon) | FastAPI · PostgreSQL | Сервис бронирования для салона красоты: REST API, авторизация, работа с расписанием. |
+| 💼 [**JobWire**](https://github.com/DmitryGitHab/JobWire-) | FastAPI · AI-интеграция | Агрегатор вакансий, который сам генерирует сопроводительные письма под вакансию. |
+| 📶 [**Pinger Server**](https://github.com/DmitryGitHab/pinger_server) | FastAPI · asyncio · WebSocket | Асинхронный мониторинг сети: параллельный ICMP-пинг, live-обновления по WebSocket, экспорт в CSV. |
 
 
 
@@ -82,7 +88,7 @@
 
 ## 📊 Статистика
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitryGitHab)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DmitryGitHab&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
