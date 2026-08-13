@@ -51,12 +51,13 @@
 
 | Проект | Что это |
 |---|---|
+| 📡 [**Booking API**](https://github.com/DmitryGitHab/Booking_salon) | Booking API — сервис бронирования (запись в салон красоты). |
+| 📡 [**JobWire**](https://github.com/DmitryGitHab/JobWire-) | JobWire — агрегатор вакансий с AI-сопроводительными письмами. |
 | 🏗️ [**AI-Смета-Агент**](https://github.com/DmitryGitHab/ai-smeta-agent) | AI-агент на Claude (tool use) + RAG: сверяет строительную отчётность и объясняет расхождения со ссылкой на нормативку. Детерминированное ядро на Pandas отдельно от LLM — модель не считает и не выдумывает нормы. Docker, тесты, pgvector. |
 | 🛡️ [**Калькулятор себестоимости объекта охраны**](https://github.com/DmitryGitHab/calc_Security) | Десктоп-приложение на PyQt6 — реальный коммерческий проект по ТЗ клиента, не учебный. Бизнес-логика вынесена из UI и покрыта тестами. |
 | 🕵️ [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | Сервис одноразовых записок на FastAPI. Нашёл и исправил утечку текста записки через URL, пароли хэшируются bcrypt. |
 | 📡 [**Pinger Server**](https://github.com/DmitryGitHab/pinger_server) | Асинхронный мониторинг сети на FastAPI: параллельный ICMP-пинг, живые обновления по WebSocket, экспорт в CSV. |
-| 📡 [**Booking API**](https://github.com/DmitryGitHab/Booking_salon) | Booking API — сервис бронирования (запись в салон красоты). |
-| 📡 [**JobWire**](https://github.com/DmitryGitHab/JobWire-) | JobWire — агрегатор вакансий с AI-сопроводительными письмами. |
+
 
 
 
