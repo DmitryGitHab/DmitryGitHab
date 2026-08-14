@@ -87,7 +87,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DmitryGitHab&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=algolia
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DmitryGitHab)](https://github.com/stats-organization/github-stats-extended)
 
