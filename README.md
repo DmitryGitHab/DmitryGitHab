@@ -79,7 +79,7 @@
 -  [VK Photo Backup → Yandex.Disk](https://github.com/DmitryGitHab/CW_V_2_Y) — бэкап фото профиля VK на Яндекс.Диск, retry с backoff на лимиты API, тесты
 -  [Telegram Autoresponder Bot](https://github.com/DmitryGitHab/tg_test) — бот-автоответчик на официальном Bot API (aiogram)
 -  [Portfolio на FastAPI + JS](https://github.com/DmitryGitHab/fa_portfolio) — сайт-визитка с CRUD для проектов
--  [Face Recognition](https://github.com/DmitryGitHab/face_detected/) - Приложение для распознавания знакомых лиц на видео (с веб-камеры или из файла) в реальном времени.
+-  [Face Recognition](https://github.com/DmitryGitHab/face_detected) - Приложение для распознавания знакомых лиц на видео (с веб-камеры или из файла) в реальном времени.
 
 </details>
 
