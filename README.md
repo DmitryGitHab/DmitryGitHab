@@ -62,7 +62,8 @@
 | 🏗️ [**AI-Смета-Агент**](https://github.com/DmitryGitHab/ai-smeta-agent) | FastAPI · Claude tool use · RAG · pgvector · Docker | AI-агент сверяет строительную отчётность и объясняет расхождения со ссылкой на нормативку. Расчёты — на детерминированном Pandas-ядре отдельно от LLM: модель объясняет, но не считает и не выдумывает нормы. Покрыт тестами. |
 | 🛡️ [**Калькулятор себестоимости объекта охраны**](https://github.com/DmitryGitHab/calc_Security) | Python · PyQt6 · pytest | Коммерческий заказ по ТЗ клиента, не учебный проект. Бизнес-логика вынесена из UI и покрыта тестами — легко поддерживать и расширять. |
 | 📶 [**Pinger Server**](https://github.com/DmitryGitHab/pinger_server) | FastAPI · asyncio · WebSocket | Асинхронный мониторинг сети: параллельный ICMP-пинг, live-обновления по WebSocket, экспорт в CSV. |
-| 🔒 [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | FastAPI · bcrypt | Сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt. |
+| 🔒  [**Расчёт допустимого давления (десктоп)**](https://github.com/DmitryGitHab/load-calculation) | Промышленное приложение на PyQt5 для расчёта допустимого давления конструкций — используется в реальной production-эксплуатации на предприятии. |
+
 
 
 
@@ -72,13 +73,12 @@
 <details>
 <summary>📂 Остальные проекты</summary>
 <br>
-
+-  [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa) - Веб-сервис для скрининга криптовалют: находит монеты, которые сильно упали от исторического максимума (ATH), но при этом сохранили достаточную капитализацию/
+-  [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | FastAPI · bcrypt | Сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt. 
 -  [API-сервис заказа товаров для розничных сетей (Django)](https://github.com/DmitryGitHab/django_retail_chain) — дипломный проект: закупки, роли покупатель/поставщик, авторизация через API
 -  [VK Photo Backup → Yandex.Disk](https://github.com/DmitryGitHab/CW_V_2_Y) — бэкап фото профиля VK на Яндекс.Диск, retry с backoff на лимиты API, тесты
 -  [Telegram Autoresponder Bot](https://github.com/DmitryGitHab/tg_test) — бот-автоответчик на официальном Bot API (aiogram)
 -  [Portfolio на FastAPI + JS](https://github.com/DmitryGitHab/fa_portfolio) — сайт-визитка с CRUD для проектов
--  [Расчёт допустимого давления (десктоп)](https://github.com/DmitryGitHab/load-calculation)  Промышленное приложение на PyQt5 для расчёта допустимого давления конструкций — используется в реальной production-эксплуатации на предприятии.
--  [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa) - Веб-сервис для скрининга криптовалют: находит монеты, которые сильно упали от исторического максимума (ATH), но при этом сохранили достаточную капитализацию/
 -  [Face Recognition](https://github.com/DmitryGitHab/face_detected/) - Приложение для распознавания знакомых лиц на видео (с веб-камеры или из файла) в реальном времени.
 
 </details>
