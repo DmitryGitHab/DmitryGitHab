@@ -57,13 +57,12 @@
 
 | Проект | Стек | Описание |
 |---|---|---|
+| 💼 [**JobWire**](https://github.com/DmitryGitHab/JobWire-) | FastAPI · AI-интеграция | Агрегатор вакансий, который сам генерирует сопроводительные письма под вакансию. |
+| 📅 [**Booking API**](https://github.com/DmitryGitHab/Booking_salon) | FastAPI · PostgreSQL | Сервис бронирования для салона красоты: REST API, авторизация, работа с расписанием. |
 | 🏗️ [**AI-Смета-Агент**](https://github.com/DmitryGitHab/ai-smeta-agent) | FastAPI · Claude tool use · RAG · pgvector · Docker | AI-агент сверяет строительную отчётность и объясняет расхождения со ссылкой на нормативку. Расчёты — на детерминированном Pandas-ядре отдельно от LLM: модель объясняет, но не считает и не выдумывает нормы. Покрыт тестами. |
 | 🛡️ [**Калькулятор себестоимости объекта охраны**](https://github.com/DmitryGitHab/calc_Security) | Python · PyQt6 · pytest | Коммерческий заказ по ТЗ клиента, не учебный проект. Бизнес-логика вынесена из UI и покрыта тестами — легко поддерживать и расширять. |
-| 🔒 [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | FastAPI · bcrypt | Сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt. |
-| 📅 [**Booking API**](https://github.com/DmitryGitHab/Booking_salon) | FastAPI · PostgreSQL | Сервис бронирования для салона красоты: REST API, авторизация, работа с расписанием. |
-| 💼 [**JobWire**](https://github.com/DmitryGitHab/JobWire-) | FastAPI · AI-интеграция | Агрегатор вакансий, который сам генерирует сопроводительные письма под вакансию. |
 | 📶 [**Pinger Server**](https://github.com/DmitryGitHab/pinger_server) | FastAPI · asyncio · WebSocket | Асинхронный мониторинг сети: параллельный ICMP-пинг, live-обновления по WebSocket, экспорт в CSV. |
-
+| 🔒 [**Anonymous Notes**](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) | FastAPI · bcrypt | Сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt. |
 
 
 
