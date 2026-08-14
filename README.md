@@ -62,11 +62,7 @@
 | 🏗️ [**AI-Смета-Агент**](https://github.com/DmitryGitHab/ai-smeta-agent) | FastAPI · Claude tool use · RAG · pgvector · Docker | AI-агент сверяет строительную отчётность и объясняет расхождения со ссылкой на нормативку. Расчёты — на детерминированном Pandas-ядре отдельно от LLM: модель объясняет, но не считает и не выдумывает нормы. Покрыт тестами. |
 | 🛡️ [**Калькулятор себестоимости объекта охраны**](https://github.com/DmitryGitHab/calc_Security) | Python · PyQt6 · pytest | Коммерческий заказ по ТЗ клиента, не учебный проект. Бизнес-логика вынесена из UI и покрыта тестами — легко поддерживать и расширять. |
 | 📶 [**Pinger Server**](https://github.com/DmitryGitHab/pinger_server) | FastAPI · asyncio · WebSocket | Асинхронный мониторинг сети: параллельный ICMP-пинг, live-обновления по WebSocket, экспорт в CSV. |
-| 🔒  [**Расчёт допустимого давления (десктоп)**](https://github.com/DmitryGitHab/load-calculation) | Python · PyQt6 · SQL | Промышленное приложение на PyQt5 для расчёта допустимого давления конструкций — используется в реальной production-эксплуатации на предприятии. |
-
-
-
-
+| ⚙️ [**Расчёт допустимого давления (десктоп)**](https://github.com/DmitryGitHab/load-calculation) | Python · PyQt6 · SQL | Промышленное приложение на PyQt5 для расчёта допустимого давления конструкций — используется в реальной production-эксплуатации на предприятии. |
 
 <br>
 
