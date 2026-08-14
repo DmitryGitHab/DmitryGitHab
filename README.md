@@ -85,8 +85,6 @@
 
 ## 📊 Статистика
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DmitryGitHab&theme=dark)](https://git.io/streak-stats)
-
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryGitHab&theme=solarized_dark)
