@@ -89,6 +89,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGitHab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DmitryGitHab)](https://github.com/stats-organization/github-stats-extended)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryGitHab&theme=solarized_dark)
 
 <br>
