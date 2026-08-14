@@ -68,14 +68,16 @@
 
 <details>
 <summary>📂 Остальные проекты</summary>
+
 <br>
-  -  [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa) - Веб-сервис для скрининга криптовалют: находит монеты, которые сильно упали от исторического максимума (ATH), но при этом сохранили достаточную капитализацию
-  -  [Anonymous Notes](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) - Сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt. 
-  -  [API-сервис заказа товаров для розничных сетей (Django)](https://github.com/DmitryGitHab/django_retail_chain) — дипломный проект: закупки, роли покупатель/поставщик, авторизация через API
-  -  [VK Photo Backup → Yandex.Disk](https://github.com/DmitryGitHab/CW_V_2_Y) — бэкап фото профиля VK на Яндекс.Диск, retry с backoff на лимиты API, тесты
-  -  [Telegram Autoresponder Bot](https://github.com/DmitryGitHab/tg_test) — бот-автоответчик на официальном Bot API (aiogram)
-  -  [Portfolio на FastAPI + JS](https://github.com/DmitryGitHab/fa_portfolio) — сайт-визитка с CRUD для проектов
-  -  [Face Recognition](https://github.com/DmitryGitHab/face_detected) - Приложение для распознавания знакомых лиц на видео (с веб-камеры или из файла) в реальном времени.
+
+- [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa) — веб-сервис для скрининга криптовалют: находит монеты, которые сильно упали от исторического максимума (ATH), но при этом сохранили достаточную капитализацию
+- [Anonymous Notes](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) — сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt
+- [API-сервис заказа товаров для розничных сетей (Django)](https://github.com/DmitryGitHab/django_retail_chain) — дипломный проект: закупки, роли покупатель/поставщик, авторизация через API
+- [VK Photo Backup → Yandex.Disk](https://github.com/DmitryGitHab/CW_V_2_Y) — бэкап фото профиля VK на Яндекс.Диск, retry с backoff на лимиты API, тесты
+- [Telegram Autoresponder Bot](https://github.com/DmitryGitHab/tg_test) — бот-автоответчик на официальном Bot API (aiogram)
+- [Portfolio на FastAPI + JS](https://github.com/DmitryGitHab/fa_portfolio) — сайт-визитка с CRUD для проектов
+- [Face Recognition](https://github.com/DmitryGitHab/face_detected) — приложение для распознавания знакомых лиц на видео (с веб-камеры или из файла) в реальном времени
 
 </details>
 
