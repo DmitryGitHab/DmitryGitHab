@@ -71,6 +71,7 @@
 
 <br>
 
+- [MTR Procurement ETL Pipeline](https://github.com/DmitryGitHab/dag_MTR_Procurement_ETL_Pipeline) - Ежедневный ETL-пайплайн на Apache Airflow + Python + PostgreSQL
 - [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa) — веб-сервис для скрининга криптовалют: находит монеты, которые сильно упали от исторического максимума (ATH), но при этом сохранили достаточную капитализацию
 - [Anonymous Notes](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) — сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt
 - [API-сервис заказа товаров для розничных сетей (Django)](https://github.com/DmitryGitHab/django_retail_chain) — дипломный проект: закупки, роли покупатель/поставщик, авторизация через API
