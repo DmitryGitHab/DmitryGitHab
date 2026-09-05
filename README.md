@@ -71,7 +71,8 @@
 
 <br>
 
-- [PDF Master](https://github.com/DmitryGitHab/dag_MTR_Procurement_ETL_Pipeline](https://github.com/DmitryGitHab/pdf_master) - Однофайловый офлайн-инструмент для объединения, реорганизации и правки PDF прямо в браузере — без интернета, без сервера и без установки.
+- [PDF Master](https://github.com/DmitryGitHab/pdf_master) - Однофайловый офлайн-инструмент для объединения, реорганизации и правки PDF прямо в браузере — без интернета, без сервера и без установки.
+- [MTR Procurement ETL Pipeline](https://github.com/DmitryGitHab/dag_MTR_Procurement_ETL_Pipeline] - Однофайловый офлайн-инструмент для объединения, реорганизации и правки PDF прямо в браузере — без интернета, без сервера и без установки.
 - [MTR Procurement ETL Pipeline](https://github.com/DmitryGitHab/dag_MTR_Procurement_ETL_Pipeline) - Ежедневный ETL-пайплайн на Apache Airflow + Python + PostgreSQL
 - [Crypto Scan](https://github.com/DmitryGitHab/crypto_scan_fa) — веб-сервис для скрининга криптовалют: находит монеты, которые сильно упали от исторического максимума (ATH), но при этом сохранили достаточную капитализацию
 - [Anonymous Notes](https://github.com/DmitryGitHab/anonymous_notes-fastAPI-) — сервис одноразовых записок с автоудалением после прочтения, пароли хэшируются bcrypt
